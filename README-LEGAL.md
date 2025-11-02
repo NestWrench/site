@@ -87,7 +87,6 @@ Unauthorized reproduction or redistribution is prohibited.
 
 ---
 
-**Maintained by:** Tyler Dorsey  
+**Maintained by:** Jasmina Davidson  
 **Business Entity:** Davidson Enterprises, LLC  
 **Primary Contact:** [support@nestwrench.app](mailto:support@nestwrench.app)
-
