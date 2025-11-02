@@ -1,92 +1,98 @@
 # site
 NestWrench Support and Legal Pages
-# 🧰 NestWrench Legal & Compliance Documentation
+# 🧰 **NestWrench Legal & Compliance Documentation**
 
-**Company:** Davidson Enterprises, LLC  
-**Brand / Product:** NestWrench™  
-**Website:** [https://nestwrench.app](https://nestwrench.app)  
-**Support Email:** [support@nestwrench.app](mailto:support@nestwrench.app)  
-**Business Location:** Crown Point, Indiana, USA  
-**Last Updated:** November 2, 2025  
-
----
-
-## 📄 Purpose of This Repository
-This repository hosts NestWrench’s **public compliance pages** used for:
-
-- Apple App Store & Google Play Store app submissions  
-- Stripe / payment provider verification  
-- Public transparency and user support access  
-
-All pages are published via **GitHub Pages** and are accessible under the official domain  
-`https://nestwrench.app`.
+> **Brand:** NestWrench™  
+> **Company:** Davidson Enterprises, LLC  
+> **Website:** [https://nestwrench.app](https://nestwrench.app)  
+> **Support:** [support@nestwrench.app](mailto:support@nestwrench.app)  
+> **Location:** Crown Point, Indiana, USA  
+> **Last Updated:** November 2, 2025  
 
 ---
 
-## 📁 Directory Overview
+## 📄 **Purpose of This Repository**
+
+This repository hosts NestWrench’s **public legal and compliance pages** used for:
+
+- ✅ App Store & Google Play app submissions  
+- 💳 Stripe payment processor verification  
+- 🌐 Public user support access  
+
+All pages are deployed via **GitHub Pages** and publicly available at  
+👉 **[https://nestwrench.app](https://nestwrench.app)**  
+
+---
+
+## 📁 **Directory Overview**
 
 | Path | Purpose | Public URL |
 |------|----------|------------|
-| `/index.html` | Official NestWrench landing page (product overview & download links) | [https://nestwrench.app](https://nestwrench.app) |
+| `/index.html` | Official NestWrench landing page | [https://nestwrench.app](https://nestwrench.app) |
 | `/support/index.html` | Customer support & contact portal | [https://nestwrench.app/support](https://nestwrench.app/support) |
-| `/terms/index.html` | Terms of Service and usage agreement | [https://nestwrench.app/terms](https://nestwrench.app/terms) |
-| `/privacy/index.html` | Privacy Policy and data handling details | [https://nestwrench.app/privacy](https://nestwrench.app/privacy) |
+| `/terms/index.html` | Terms of Service | [https://nestwrench.app/terms](https://nestwrench.app/terms) |
+| `/privacy/index.html` | Privacy Policy | [https://nestwrench.app/privacy](https://nestwrench.app/privacy) |
 
 ---
 
-## 🔐 Compliance Statement
+## 🔐 **Compliance Summary**
 
-NestWrench operates under Davidson Enterprises, LLC, headquartered in Crown Point, Indiana.  
-The following compliance policies are active and published for public review:
+NestWrench operates under **Davidson Enterprises, LLC**, headquartered in Crown Point, Indiana, USA.  
+Our compliance structure includes:
 
-1. **Terms of Service** – defines usage conditions, account responsibilities, and liability limits.  
-2. **Privacy Policy** – outlines how user and diagnostic data are collected, stored, and protected.  
-3. **Support Policy** – provides contact procedures, refund response timelines, and safety notices.
+1. **Terms of Service** — defines app usage, subscriptions, and liability limits  
+2. **Privacy Policy** — explains data collection and security measures  
+3. **Support Policy** — defines support hours, refund procedures, and contact options  
 
-All policies are accessible to the public, linked from within the NestWrench app, and verified by Stripe and app-store reviewers.
-
----
-
-## 💳 Payment Compliance
-NestWrench uses **Stripe** for secure payment processing.
-
-- Cardholder data is never stored on NestWrench servers.  
-- Stripe’s PCI DSS-compliant API manages all payment details.  
-- Refunds and cancellations are handled manually through Stripe upon request within 7 days of transaction.  
-
-Support contact for payment issues: [support@nestwrench.app](mailto:support@nestwrench.app)
+All policies are linked from within the NestWrench app and verified by Stripe and both app stores.
 
 ---
 
-## 📧 Support Contact Policy
-NestWrench provides support by email during business hours:
+## 💳 **Payment Compliance**
 
-- **Hours:** Monday – Friday, 9:00 AM – 6:00 PM (Central Time)  
-- **Response Time:** Within 24 hours on business days  
-- **Email:** [support@nestwrench.app](mailto:support@nestwrench.app)
+NestWrench uses **Stripe** for all payment transactions.  
+We meet PCI DSS security standards through Stripe’s encrypted payment API.
 
----
-
-## ⚙️ Technical Setup Summary
-This site is powered by **GitHub Pages** and secured with HTTPS through GitHub’s automatic SSL certificates.
-
-| Component | Purpose |
-|------------|----------|
-| **Repository:** `nestwrench-site` | Hosts all compliance and brand pages |
-| **Deployment:** GitHub Pages | Free SSL-secured static hosting |
-| **Custom Domain:** `nestwrench.app` | Configured with A and CNAME records |
-| **Mail Provider:** Zoho Mail (free plan) | Handles support@nestwrench.app |
-| **Payment Gateway:** Stripe | Used for in-app purchases and subscriptions |
+- 🔒 No cardholder data is stored on NestWrench servers  
+- 💰 Refunds can be requested within 7 days by contacting  
+  [support@nestwrench.app](mailto:support@nestwrench.app)  
+- 🧾 Subscriptions renew automatically until canceled within the app  
 
 ---
 
-## 🪪 Legal Ownership
-All NestWrench logos, designs, and names are intellectual property of  
-**Davidson Enterprises, LLC** © 2025.  
-Unauthorized reproduction or redistribution is prohibited.
+## 📧 **Support Contact Policy**
+
+NestWrench provides email-based support during business hours.
+
+| Detail | Value |
+|--------|--------|
+| **Email:** | [support@nestwrench.app](mailto:support@nestwrench.app) |
+| **Hours:** | Monday–Friday, 9:00 AM – 6:00 PM (Central Time) |
+| **Response Time:** | Within 24 hours on business days |
 
 ---
 
-**Maintained by:** Jasmina Davidson  
+## ⚙️ **Technical Setup Summary**
+
+| Component | Description |
+|------------|-------------|
+| **Hosting:** | GitHub Pages (free HTTPS-secured hosting) |
+| **Repository:** | `nestwrench-site` |
+| **Custom Domain:** | [nestwrench.app](https://nestwrench.app) |
+| **DNS Setup:** | A & CNAME records configured through registrar |
+| **Mail Provider:** | Zoho Mail (free plan) — handles support@nestwrench.app |
+| **Payment Gateway:** | Stripe — manages subscriptions and in-app purchases |
+
+---
+
+## 🪪 **Legal Ownership**
+
+All NestWrench names, logos, and designs are property of  
+**Davidson Enterprises, LLC © 2025.**  
+Unauthorized reproduction, redistribution, or impersonation is prohibited.
+
+---
+
+**Maintained by:** **Jasmina Davidson**  
 **Business Entity:** Davidson Enterprises, LLC  
 **Primary Contact:** [support@nestwrench.app](mailto:support@nestwrench.app)
